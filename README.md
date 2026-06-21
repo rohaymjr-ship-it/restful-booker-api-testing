@@ -87,7 +87,3 @@ Screenshots of passing test results for each request are available in the `/scre
 **Abdulrahman Rohaym**
 Software Testing (QA).
 
-
----
-
-⭐ Feel free to explore the collection and reach out with any feedback!
